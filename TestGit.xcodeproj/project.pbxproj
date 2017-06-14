@@ -13,6 +13,7 @@
 		B2DFD6B71EF1C5E50032E303 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2DFD6B61EF1C5E50032E303 /* Assets.xcassets */; };
 		B2DFD6BA1EF1C5E50032E303 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2DFD6B81EF1C5E50032E303 /* LaunchScreen.storyboard */; };
 		B2DFD6C21EF1CAB80032E303 /* Test3.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DFD6C11EF1CAB80032E303 /* Test3.swift */; };
+		B2DFD6C61EF1D7050032E303 /* f4.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2DFD6C51EF1D7050032E303 /* f4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B2DFD6B91EF1C5E50032E303 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2DFD6BB1EF1C5E50032E303 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B2DFD6C11EF1CAB80032E303 /* Test3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test3.swift; sourceTree = "<group>"; };
+		B2DFD6C51EF1D7050032E303 /* f4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = f4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B2DFD6B81EF1C5E50032E303 /* LaunchScreen.storyboard */,
 				B2DFD6BB1EF1C5E50032E303 /* Info.plist */,
 				B2DFD6C11EF1CAB80032E303 /* Test3.swift */,
+				B2DFD6C51EF1D7050032E303 /* f4.swift */,
 			);
 			path = TestGit;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B2DFD6C21EF1CAB80032E303 /* Test3.swift in Sources */,
+				B2DFD6C61EF1D7050032E303 /* f4.swift in Sources */,
 				B2DFD6B21EF1C5E50032E303 /* ViewController.swift in Sources */,
 				B2DFD6B01EF1C5E50032E303 /* AppDelegate.swift in Sources */,
 			);
@@ -303,6 +307,7 @@
 				B2DFD6C01EF1C5E50032E303 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
