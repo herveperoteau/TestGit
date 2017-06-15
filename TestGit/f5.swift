@@ -10,4 +10,7 @@ import Foundation
 
 
 /// c2
+<<<<<<< HEAD
 /// c3
+=======
+>>>>>>> f5 c2
